@@ -1,4 +1,4 @@
-# Mechanical Car Design — "Blue"
+# Mechanical Car Design
 
 An electrically powered vehicle designed, fabricated, and tested as part of an engineering design project. The car combines CAD-based mechanical design, laser-cut fabrication, gear transmission design, electrical integration, and iterative performance testing within a compact blue-whale-inspired chassis.
 
